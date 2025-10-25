@@ -5,6 +5,7 @@ export * from './modDownloader';
 export * from './modFinder';
 export * from './modInstaller';
 export * from './modType';
+export * from './moduleTranslation';
 export * from './store';
 export * from './tools';
 export * from './types';
